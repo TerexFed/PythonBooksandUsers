@@ -53,6 +53,13 @@
     "genre": "history",
     "pages": "217",
     "publisher": "Orient Blackswan"
+   },
+   {
+    "title": "Judge, The",
+    "author": "",
+    "genre": "fiction",
+    "pages": "170",
+    "publisher": ""
    }
   ]
  },
@@ -110,6 +117,13 @@
     "genre": "computer_science",
     "pages": "240",
     "publisher": "MIT Press"
+   },
+   {
+    "title": "Attorney, The",
+    "author": "",
+    "genre": "fiction",
+    "pages": "170",
+    "publisher": ""
    }
   ]
  },
@@ -167,6 +181,13 @@
     "genre": "computer_science",
     "pages": "232",
     "publisher": "O'Reilly"
+   },
+   {
+    "title": "Prince, The",
+    "author": "Machiavelli",
+    "genre": "philosophy",
+    "pages": "173",
+    "publisher": ""
    }
   ]
  },
@@ -224,6 +245,13 @@
     "genre": "fiction",
     "pages": "198",
     "publisher": "Penguin"
+   },
+   {
+    "title": "Eyeless in Gaza",
+    "author": "Huxley, Aldous",
+    "genre": "fiction",
+    "pages": "180",
+    "publisher": ""
    }
   ]
  },
@@ -281,6 +309,13 @@
     "genre": "science",
     "pages": "198",
     "publisher": "Random House"
+   },
+   {
+    "title": "Tales of Beedle the Bard",
+    "author": "Rowling, J K",
+    "genre": "fiction",
+    "pages": "184",
+    "publisher": ""
    }
   ]
  },
@@ -338,6 +373,13 @@
     "genre": "nonfiction",
     "pages": "196",
     "publisher": "Penguin"
+   },
+   {
+    "title": "Girl with the Dragon Tattoo",
+    "author": "Larsson, Steig",
+    "genre": "fiction",
+    "pages": "179",
+    "publisher": ""
    }
   ]
  },
@@ -395,6 +437,13 @@
     "genre": "nonfiction",
     "pages": "196",
     "publisher": "Penguin"
+   },
+   {
+    "title": "Girl who kicked the Hornet's Nest",
+    "author": "Larsson, Steig",
+    "genre": "fiction",
+    "pages": "179",
+    "publisher": ""
    }
   ]
  },
@@ -452,6 +501,13 @@
     "genre": "data_science",
     "pages": "242",
     "publisher": "Elsevier"
+   },
+   {
+    "title": "Girl who played with Fire",
+    "author": "Larsson, Steig",
+    "genre": "fiction",
+    "pages": "179",
+    "publisher": ""
    }
   ]
  },
@@ -509,6 +565,13 @@
     "genre": "computer_science",
     "pages": "213",
     "publisher": "Prentice Hall"
+   },
+   {
+    "title": "Batman Handbook",
+    "author": "",
+    "genre": "comic",
+    "pages": "270",
+    "publisher": ""
    }
   ]
  },
@@ -566,6 +629,13 @@
     "genre": "fiction",
     "pages": "175",
     "publisher": "Penguin"
+   },
+   {
+    "title": "Murphy's Law",
+    "author": "",
+    "genre": "nonfiction",
+    "pages": "178",
+    "publisher": ""
    }
   ]
  },
@@ -623,6 +693,13 @@
     "genre": "nonfiction",
     "pages": "213",
     "publisher": "Mauj"
+   },
+   {
+    "title": "Structure and Randomness",
+    "author": "Tao, Terence",
+    "genre": "mathematics",
+    "pages": "252",
+    "publisher": ""
    }
   ]
  },
@@ -679,6 +756,13 @@
     "author": "",
     "genre": "history",
     "pages": "210",
+    "publisher": ""
+   },
+   {
+    "title": "Image Processing with MATLAB",
+    "author": "Eddins, Steve",
+    "genre": "signal_processing",
+    "pages": "241",
     "publisher": ""
    }
   ]
@@ -737,6 +821,13 @@
     "genre": "philosophy",
     "pages": "203",
     "publisher": "FreePress"
+   },
+   {
+    "title": "Animal Farm",
+    "author": "Orwell, George",
+    "genre": "fiction",
+    "pages": "180",
+    "publisher": ""
    }
   ]
  },
@@ -794,6 +885,13 @@
     "genre": "fiction",
     "pages": "175",
     "publisher": "Penguin"
+   },
+   {
+    "title": "Idiot, The",
+    "author": "Dostoevsky, Fyodor",
+    "genre": "fiction",
+    "pages": "197",
+    "publisher": ""
    }
   ]
  },
@@ -850,6 +948,13 @@
     "author": "Iacoca, Lee",
     "genre": "nonfiction",
     "pages": "175",
+    "publisher": ""
+   },
+   {
+    "title": "Christmas Carol, A",
+    "author": "Dickens, Charles",
+    "genre": "fiction",
+    "pages": "196",
     "publisher": ""
    }
   ]
@@ -1591,111 +1696,6 @@
     "author": "Brown, Dan",
     "genre": "fiction",
     "pages": "170",
-    "publisher": ""
-   },
-   {
-    "title": "Judge, The",
-    "author": "",
-    "genre": "fiction",
-    "pages": "170",
-    "publisher": ""
-   },
-   {
-    "title": "Attorney, The",
-    "author": "",
-    "genre": "fiction",
-    "pages": "170",
-    "publisher": ""
-   },
-   {
-    "title": "Prince, The",
-    "author": "Machiavelli",
-    "genre": "philosophy",
-    "pages": "173",
-    "publisher": ""
-   },
-   {
-    "title": "Eyeless in Gaza",
-    "author": "Huxley, Aldous",
-    "genre": "fiction",
-    "pages": "180",
-    "publisher": ""
-   },
-   {
-    "title": "Tales of Beedle the Bard",
-    "author": "Rowling, J K",
-    "genre": "fiction",
-    "pages": "184",
-    "publisher": ""
-   },
-   {
-    "title": "Girl with the Dragon Tattoo",
-    "author": "Larsson, Steig",
-    "genre": "fiction",
-    "pages": "179",
-    "publisher": ""
-   },
-   {
-    "title": "Girl who kicked the Hornet's Nest",
-    "author": "Larsson, Steig",
-    "genre": "fiction",
-    "pages": "179",
-    "publisher": ""
-   },
-   {
-    "title": "Girl who played with Fire",
-    "author": "Larsson, Steig",
-    "genre": "fiction",
-    "pages": "179",
-    "publisher": ""
-   },
-   {
-    "title": "Batman Handbook",
-    "author": "",
-    "genre": "comic",
-    "pages": "270",
-    "publisher": ""
-   },
-   {
-    "title": "Murphy's Law",
-    "author": "",
-    "genre": "nonfiction",
-    "pages": "178",
-    "publisher": ""
-   },
-   {
-    "title": "Structure and Randomness",
-    "author": "Tao, Terence",
-    "genre": "mathematics",
-    "pages": "252",
-    "publisher": ""
-   },
-   {
-    "title": "Image Processing with MATLAB",
-    "author": "Eddins, Steve",
-    "genre": "signal_processing",
-    "pages": "241",
-    "publisher": ""
-   },
-   {
-    "title": "Animal Farm",
-    "author": "Orwell, George",
-    "genre": "fiction",
-    "pages": "180",
-    "publisher": ""
-   },
-   {
-    "title": "Idiot, The",
-    "author": "Dostoevsky, Fyodor",
-    "genre": "fiction",
-    "pages": "197",
-    "publisher": ""
-   },
-   {
-    "title": "Christmas Carol, A",
-    "author": "Dickens, Charles",
-    "genre": "fiction",
-    "pages": "196",
     "publisher": ""
    }
   ]

@@ -54,8 +54,10 @@ with open('users.json', "r") as Users:
         give_book(smallUser, index)
         index += difference
         smallUsers.append(smallUser)
-    for bookNumber in range(index, books_len):
-        smallUsers[len(smallUsers)-1]['books'].append(books[bookNumber])
+    for userNum in range(0, users_len):
+        if index < books_len:
+            smallUsers[userNum]['books'].append(books[index])
+            index += 1
 
 with open("result.json", "w") as f:
     s = json.dumps(smallUsers, indent=1)
